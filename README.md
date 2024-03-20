@@ -3,8 +3,21 @@
 
 This project is to leverage the vast amount of data available on Twitter to gauge the sentiment of users towards specific stocks. By analyzing tweets related to various stocks, we can gain insights into public opinion, which can potentially influence stock prices.
 
+#### Twitter Dashboard
+
+![Twitter](Twitter%20-%20Power%20BI%20-%20Screenshot.png)
+
+#### Google Stocks Dashboard
+
 ![Google Stocks](Google%20Stocks%20-%20Power%20BI%20ScreenShot.png)
 
+#### Tesla Stocks Dashboard
+
+![Tesla Stocks](Tesla%20Stocks%20-%20Power%20BI%20ScreenShot.png)
+
+#### BitCoin Stocks Dashboard
+
+![BitCoin Stocks](BitCoin%20Stocks%20-%20Power%20BI%20ScreenShot.png)
 
 ## Tech Stack
 
@@ -25,7 +38,12 @@ This project is to leverage the vast amount of data available on Twitter to gaug
 **Tesla Stocks Data**: To analyze stock data of Tesla for correlation with Twitter sentiment, aiding in understanding the impact of sentiment on stock prices.
 
 **Bitcoin Stocks Data**: To analyze data of Bitcoin prices for correlation with Twitter sentiment, aiding in understanding the impact of sentiment on cryptocurrency markets.
+
 ## Tables
+
+#### Data Model
+
+![Google Stocks](Data%20Model.png)
 
 **Fact Table**
 * *Tweet ID*: Unique identifier for each tweet.
