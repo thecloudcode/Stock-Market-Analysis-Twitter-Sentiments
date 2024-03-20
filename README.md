@@ -13,11 +13,11 @@ This project is to leverage the vast amount of data available on Twitter to gaug
 
 #### Tesla Stocks Dashboard
 
-![Tesla Stocks](Tesla%20Stocks%20-%20Power%20BI%20ScreenShot.png)
+![Tesla Stocks](Tesla%20Stocks%20-%20Power%20BI%20-%20Screenshot.png)
 
 #### BitCoin Stocks Dashboard
 
-![BitCoin Stocks](BitCoin%20Stocks%20-%20Power%20BI%20ScreenShot.png)
+![BitCoin Stocks](BitCoin%20Stocks%20-%20Power%20BI%20-%20Screenshot.png)
 
 ## Tech Stack
 
