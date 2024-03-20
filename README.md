@@ -3,7 +3,7 @@
 
 This project is to leverage the vast amount of data available on Twitter to gauge the sentiment of users towards specific stocks. By analyzing tweets related to various stocks, we can gain insights into public opinion, which can potentially influence stock prices.
 
-![Google Stocks](Google Stocks - Power BI.png)
+![Google Stocks](Google%20Stocks%20-%20Power%20BI.png)
 
 
 ## Tech Stack
