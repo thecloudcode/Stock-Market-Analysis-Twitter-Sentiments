@@ -43,7 +43,7 @@ This project is to leverage the vast amount of data available on Twitter to gaug
 
 #### Data Model 📈
 
-![Data Model](Data%20Model.png)
+![Data Model](Data%20Model%202.png)
 
 **Fact Table** 📝
 | Column Name        | Description                                       |
