@@ -25,7 +25,9 @@ This project is to leverage the vast amount of data available on Twitter to gaug
 
 **Python**: Utilized for sentiment analysis of Twitter and Stocks data.
 
-**MS SQL**: Serves as the database management system for storing and managing the Twitter and Stocks data. 
+**MS SQL**: Serves as the database management system for storing and managing the Twitter and Stocks data.
+
+**APIs**: Twitter API, Stock Market API
 
 ## DataSets 📊
 
